@@ -1,0 +1,20 @@
+body, #control-bar li, .table-list .title a {
+  font-family: Helvetica, Arial, san-serif;
+  font-size:14px;
+  font-style:normal;
+}
+
+#page-tree, .table-list th, input, em, .btn, .tagsinput span.tag {
+  font-family: Helvetica, Arial, san-serif;
+  font-style:normal;
+}
+
+#page-tree .page-wrapper {
+  font-size:20px;
+}
+
+#footer, #footer a {
+  font-family: Helvetica, Arial, san-serif;
+  font-style:normal;
+  font-size:12px;
+}
